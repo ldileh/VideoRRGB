@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoR RGB</string>
+    <string name="text_permission_camera_title">Mebutuhkan Izin Penggunaan Fitur Kamera</string>
+    <string name="text_permission_camera_description">Untuk menggunakan fitur yang ada pada aplikasi ini, anda perlu mengizinkan aplikasi menggunakan fitur kamera pada smartphone anda!</string>
+    <string name="text_open_setting_app">Buka Pengaturan</string>
+    <string name="text_start">Start</string>
+    <string name="text_stop">Stop</string>
+    <string name="text_warning_using_app">Sebelum memulai menggunakan aplikasi ini, anda perlu mengizinkan akses kamera pada aplikasi ini.</string>
+    <string name="text_permission_camera">Izin Akses Kamera</string>
+</resources>
